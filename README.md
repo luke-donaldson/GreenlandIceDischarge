@@ -2,7 +2,7 @@
 
 Interactive explorer of ice discharge from Greenland's marine-terminating glaciers.
 
-**Live site:** https://luke-donaldson.github.io/greenland-ice-discharge
+**Live site:** https://luke-donaldson.github.io/GreenlandIceDischarge/
 
 The explorer is a single self-contained HTML file (`index.html`) with Plotly bundled in, hosted with GitHub Pages.
 
